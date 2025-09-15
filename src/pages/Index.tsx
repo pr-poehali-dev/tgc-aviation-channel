@@ -56,7 +56,7 @@ export default function Index() {
             <Button 
               size="lg" 
               className="bg-sky-500 hover:bg-sky-400 text-white font-semibold px-8 py-3"
-              onClick={() => window.open('https://t.me/mir_aviatsii', '_blank')}
+              onClick={() => window.open('https://t.me/World_Aviation_Life', '_blank')}
             >
               <Icon name="Send" size={20} className="mr-2" />
               Подписаться на канал
@@ -215,7 +215,7 @@ export default function Index() {
               <Button 
                 size="lg" 
                 className="bg-white text-sky-800 hover:bg-sky-50 font-semibold px-8 py-4 text-lg"
-                onClick={() => window.open('https://t.me/mir_aviatsii', '_blank')}
+                onClick={() => window.open('https://t.me/World_Aviation_Life', '_blank')}
               >
                 <Icon name="Send" size={20} className="mr-3" />
                 Подписаться на канал
@@ -243,7 +243,7 @@ export default function Index() {
                 variant="ghost" 
                 size="sm" 
                 className="text-sky-200 hover:text-white hover:bg-sky-800"
-                onClick={() => window.open('https://t.me/mir_aviatsii', '_blank')}
+                onClick={() => window.open('https://t.me/World_Aviation_Life', '_blank')}
               >
                 <Icon name="Send" size={16} className="mr-2" />
                 Telegram
